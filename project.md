@@ -1,6 +1,6 @@
 # Predictions using the Weight Lifting Exercises Dataset
-Tom Lous  
-17 May 2016  
+Ong Shi Teng  
+07 July 2021  
 
 
 
